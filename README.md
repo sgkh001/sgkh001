@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 
-- - 😄 I have just completed le wagon bootcamp
-- 👯 I’m looking to collaborate on new projects and improve my coding skills.
-- 🤔 I’m looking for a new job
-- 💬 Ask me about Mauritius
-- 📫 How to reach me: bshine772@gmail.com
+## - 😄 I have just completed le wagon bootcamp
+## - 👯 I’m looking to collaborate on new projects and improve my coding skills.
+## - 🤔 I’m looking for a new job
+## - 💬 Ask me about Mauritius
+## - 📫 How to reach me: bshine772@gmail.com
 -->
